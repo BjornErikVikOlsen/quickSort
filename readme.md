@@ -1,3 +1,3 @@
-# Suicksort
+# Quicksort
 
 Quicksort implementation
