@@ -59,7 +59,7 @@ function draw() {
   for (let i = 0; i < values.length; i++) {
     noStroke();
     if (states[i] == 0) {
-      fill('#E0777D');
+      fill('#00cc00');
     } else if (states[i] == 1) {
       fill('#D6FFB7');
     } else {
